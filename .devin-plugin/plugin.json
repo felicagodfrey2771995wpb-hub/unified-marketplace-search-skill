@@ -1,0 +1,5 @@
+{
+  "name": "unified-marketplace-search",
+  "version": "1.0.0",
+  "description": "Search skills across LobeHub, SkillHub, skills.sh, and a bundled awesome-top-skills index. Self-contained for cloud/remote sessions: the skillhub CLI and the awesome-top-skills index ship inside the plugin; lobehub and skills.sh run via npx."
+}
